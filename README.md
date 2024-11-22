@@ -2,4 +2,4 @@
 - 👀 Interested in software development and sustainable tech solutions.  
 - 🌱 Currently learning full-stack web and React Native development.  
 - 💞️ Open to collaborations on AI and app development projects.  
-- 📫 Reach me via email: gorishgupta@example.com  
+- 📫 Reach me via email: gorishgupta50@gmail.com  
