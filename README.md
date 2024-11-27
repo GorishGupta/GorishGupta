@@ -79,7 +79,7 @@
 ## Connect with me  
 
   <div align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/GorishGupta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/gorish-gupta-3680b7257" target="_blank">
@@ -96,10 +96,6 @@
   </a>
   <a href="mailto:gorishgupta50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
-  <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
  
